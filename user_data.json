@@ -1,8 +1,9 @@
 [
-	"pranesh" {
+	[ "pranesh" {
 	                "name"	  : "Pranesh",
 			"class"	  : "X",
 			"section" : "4",
 			"age"	  :"14"
-		  }
+		    }
+	]
 ]
